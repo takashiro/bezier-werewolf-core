@@ -1,0 +1,35 @@
+{
+  "name": "@bezier/werewolf-core",
+  "version": "0.1.0",
+  "description": "Common modules of One Night Ultimate Werewolf",
+  "main": "dist",
+  "scripts": {
+    "build": "tsc",
+    "test": "eslint src/**/*.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takashiro/bezier-werewolf-core.git"
+  },
+  "keywords": [
+    "one",
+    "night",
+    "werewolf",
+    "board",
+    "game"
+  ],
+  "author": "Kazuichi Takashiro",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/takashiro/bezier-werewolf-core/issues"
+  },
+  "homepage": "https://github.com/takashiro/bezier-werewolf-core#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.0.1",
+    "@typescript-eslint/parser": "^4.0.1",
+    "eslint": "^7.8.1",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "typescript": "^4.0.2"
+  }
+}
