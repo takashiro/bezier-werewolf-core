@@ -1,8 +1,8 @@
 import Role from './Role';
 
-interface CardData {
+interface Card {
 	pos: number;
 	role: Role;
 }
 
-export default CardData;
+export default Card;

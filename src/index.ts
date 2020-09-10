@@ -1,6 +1,6 @@
-export { default as CardData } from './CardData';
+export { default as Card } from './Card';
 export { default as LobbyStatus } from './LobbyStatus';
-export { default as PlayerProfile } from './PlayerProfile';
+export { default as Player } from './Player';
 export { default as Room } from './Room';
 export { default as Role } from './Role';
 export { default as Selection } from './Selection';

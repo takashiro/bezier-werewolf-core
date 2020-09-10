@@ -1,8 +1,8 @@
 import Role from './Role';
 
-interface PlayerProfile {
+interface Player {
 	seat: number;
 	role: Role;
 }
 
-export default PlayerProfile;
+export default Player;

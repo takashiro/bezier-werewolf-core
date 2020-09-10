@@ -1,9 +1,9 @@
-import CardData from './CardData';
-import PlayerProfile from './PlayerProfile';
+import Card from './Card';
+import Player from './Player';
 
 interface Vision {
-	cards?: CardData[];
-	players?: PlayerProfile[];
+	cards?: Card[];
+	players?: Player[];
 }
 
 export default Vision;
