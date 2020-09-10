@@ -1,10 +1,9 @@
-import Role from './Role';
+import GameConfig from './GameConfig';
 
-interface Room {
+interface Room extends GameConfig {
 	id: number;
 	salt: string;
-	ownerKey: string;
-	roles: Role[];
+	ownerKey?: string;
 }
 
 export default Room;
