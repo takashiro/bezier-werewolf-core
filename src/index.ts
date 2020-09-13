@@ -1,6 +1,7 @@
 export { default as Card } from './Card';
 export { default as GameConfig } from './GameConfig';
 export { default as LobbyStatus } from './LobbyStatus';
+export { default as LynchVote } from './LynchVote';
 export { default as Player } from './Player';
 export { default as Room } from './Room';
 export { default as Role } from './Role';
