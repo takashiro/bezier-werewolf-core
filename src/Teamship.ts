@@ -21,5 +21,13 @@ ship.set(Role.Prince, Team.Villager);
 ship.set(Role.MysticWolf, Team.Werewolf);
 ship.set(Role.Cursed, Team.Villager);
 ship.set(Role.ParanormalInvestigator, Team.Villager);
+ship.set(Role.Insomniac, Team.Villager);
+ship.set(Role.Doppelganger, Team.Unknown);
+ship.set(Role.Sentinel, Team.Villager);
+ship.set(Role.ApprenticeSeer, Team.Villager);
+ship.set(Role.VillageIdiot, Team.Villager);
+ship.set(Role.Revealer, Team.Villager);
+ship.set(Role.Curator, Team.Villager);
+ship.set(Role.Bodyguard, Team.Villager);
 
 export default ship;

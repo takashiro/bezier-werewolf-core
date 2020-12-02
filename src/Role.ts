@@ -17,6 +17,14 @@ enum Role {
 	MysticWolf,
 	Cursed,
 	ParanormalInvestigator,
+	Insomniac,
+	Doppelganger,
+	Sentinel,
+	ApprenticeSeer,
+	VillageIdiot,
+	Revealer,
+	Curator,
+	Bodyguard,
 }
 
 export default Role;
