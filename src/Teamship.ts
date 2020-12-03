@@ -29,5 +29,10 @@ ship.set(Role.VillageIdiot, Team.Villager);
 ship.set(Role.Revealer, Team.Villager);
 ship.set(Role.Curator, Team.Villager);
 ship.set(Role.Bodyguard, Team.Villager);
+ship.set(Role.AuraSeer, Team.Villager);
+ship.set(Role.ApprenticeTanner, Team.Tanner);
+ship.set(Role.Beholder, Team.Villager);
+ship.set(Role.Thing, Team.Villager);
+ship.set(Role.Squire, Team.Werewolf);
 
 export default ship;

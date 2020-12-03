@@ -25,6 +25,11 @@ enum Role {
 	Revealer,
 	Curator,
 	Bodyguard,
+	AuraSeer,
+	ApprenticeTanner,
+	Beholder,
+	Thing,
+	Squire,
 }
 
 export default Role;
