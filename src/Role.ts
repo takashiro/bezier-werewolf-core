@@ -30,6 +30,20 @@ enum Role {
 	Beholder,
 	Thing,
 	Squire,
+	Renfield,
+	TheCount,
+	TheMaster,
+	Vampire,
+	Cupid,
+	Diseased,
+	Gremlin,
+	Instigator,
+	Marksman,
+	Pickpocket,
+	Priest,
+	ApprenticeAssassin,
+	Assassin,
+	Copycat,
 }
 
 export default Role;

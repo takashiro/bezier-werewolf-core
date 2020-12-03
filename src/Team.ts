@@ -2,7 +2,8 @@ enum Team {
 	Unknown,
 	Werewolf,
 	Villager,
-	Tanner,
+	Other,
+	Vampire,
 }
 
 export default Team;
