@@ -1,3 +1,4 @@
+export { default as ArtifactToken } from './ArtifactToken';
 export { default as Card } from './Card';
 export { default as GameConfig } from './GameConfig';
 export { default as LobbyStatus } from './LobbyStatus';
