@@ -4,6 +4,7 @@ export { default as GameConfig } from './GameConfig';
 export { default as LobbyStatus } from './LobbyStatus';
 export { default as LynchResult } from './LynchResult';
 export { default as LynchVote } from './LynchVote';
+export { default as Mark } from './Mark';
 export { default as Player } from './Player';
 export { default as Room } from './Room';
 export { default as Role } from './Role';
