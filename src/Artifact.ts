@@ -1,4 +1,4 @@
-enum ArtifactToken {
+enum Artifact {
 	VoidOfNothingness,
 	ShroudOfShame,
 	MaskOfMuting,
@@ -13,4 +13,4 @@ enum ArtifactToken {
 	AlienArtifact,
 }
 
-export default ArtifactToken;
+export default Artifact;
