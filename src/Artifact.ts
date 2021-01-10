@@ -1,4 +1,5 @@
 enum Artifact {
+	Unknown,
 	VoidOfNothingness,
 	ShroudOfShame,
 	MaskOfMuting,

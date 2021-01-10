@@ -1,4 +1,5 @@
 enum Mark {
+	Unknown,
 	Vampire,
 	Fear,
 	Bat,
