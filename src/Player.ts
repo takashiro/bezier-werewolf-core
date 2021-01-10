@@ -7,7 +7,7 @@ interface Player {
 	role: Role;
 	shielded?: boolean;
 	artifacts?: Artifact[];
-	marks: Mark[];
+	marks?: Mark[];
 }
 
 export default Player;
