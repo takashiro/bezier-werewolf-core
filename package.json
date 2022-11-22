@@ -1,6 +1,5 @@
 {
   "name": "@bezier-repository/werewolf-core",
-  "version": "0.4.3",
   "description": "Common modules of One Night Ultimate Werewolf",
   "main": "dist",
   "scripts": {
