@@ -1,11 +1,9 @@
-import Card from './Card';
-import LynchVote from './LynchVote';
+import Vote from './Vote';
+import Progress from './Progress';
 
 interface LynchResult {
-	progress: number;
-	limit: number;
-	cards?: Card[];
-	players?: LynchVote[];
+	progress: Progress;
+	votes?: Vote[];
 }
 
 export default LynchResult;
