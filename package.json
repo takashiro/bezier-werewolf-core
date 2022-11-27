@@ -5,7 +5,7 @@
   "scripts": {
     "build": "tsc",
     "debug": "tsc --incremental --sourceMap",
-    "test": "eslint --ext=ts .",
+    "test": "eslint --ext=js,ts .",
     "clean": "cd dist && git clean -xdf"
   },
   "repository": {
