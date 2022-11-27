@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/takashiro/bezier-werewolf-core#readme",
   "dependencies": {
-    "@bezier/werewolf-core": "file:dist"
+    "@bezier/werewolf-core": "file:src"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.44.0",
