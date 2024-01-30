@@ -2,6 +2,7 @@
   "name": "@bezier/werewolf-core",
   "version": "0.5.0",
   "description": "Common modules of One Night Ultimate Werewolf",
+  "type": "module",
   "main": "dist",
   "scripts": {
     "build": "tsc",
