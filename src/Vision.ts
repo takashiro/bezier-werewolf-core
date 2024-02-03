@@ -1,5 +1,5 @@
-import Card from './Card';
-import Player from './Player';
+import Card from './Card.js';
+import Player from './Player.js';
 
 interface Vision {
 	cards?: Card[];

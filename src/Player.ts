@@ -1,6 +1,6 @@
-import Artifact from './Artifact';
-import Mark from './Mark';
-import Role from './Role';
+import Artifact from './Artifact.js';
+import Mark from './Mark.js';
+import Role from './Role.js';
 
 interface Player {
 	seat: number;
